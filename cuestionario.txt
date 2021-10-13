@@ -1,0 +1,15 @@
+Mauricio Ramirez
+Manuel Andreu 9°2
+
+1
+En tus palabras, ¿Qué es internet?
+Un mundo de informacion virtual, en donde puedes descargar, publicar, buscar, informar, etc. 
+2
+Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+Ondas Electromagnéticas, cable coaxial, fibra óptica, aire y vacío
+3
+¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+Las direcciones Ip son un número único que clasifica un equipo dentro de una misma red, los DNS son servidores que cuando buscas un pagina en internet, estos se encargan de buscar la direección IP a la que pertenece la página
+4
+Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+El celular pide una información por internet al servidor sobre la canción, el servidor envía la información obtenida por internet.
