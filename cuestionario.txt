@@ -13,3 +13,16 @@ Las direcciones Ip son un número único que clasifica un equipo dentro de una m
 4
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
 El celular pide una información por internet al servidor sobre la canción, el servidor envía la información obtenida por internet.
+5
+Describe los protocolos que existen en internet, en específico HTTP y HTML
+Tener una buena syntaxis, en html poner DOCKTYPE siempre y en http meterte a paginas que sean https.
+6
+En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+que github te ayuda a hacer todo eso de manera más rápida y eficiente, además que para acceder a un documento necesitas el permiso de alguien más
+diciendo que entres como editor y no como un lector.
+7
+En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+No copiar código de extraños, y leerlo antes de usarlo, ademas de acceder a paginas https
+8
+¿Cómo funciona la búsqueda de google?
+atravez de comandos y usando http la computadora atravez de internet se comunica con los servidores los cuales buscan la información y la mandan a la computadora.
