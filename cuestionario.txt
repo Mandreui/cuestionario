@@ -1,9 +1,8 @@
 Mauricio Ramirez
 Manuel Andreu 9°2
-
 1
 En tus palabras, ¿Qué es internet?
-Un mundo de informacion virtual, en donde puedes descargar, publicar, buscar, informar, etc. 
+Un mundo de informacion virtual, en donde puedes descargar, publicar, buscar, informar, etc.
 2
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
 Ondas Electromagnéticas, cable coaxial, fibra óptica, aire y vacío
